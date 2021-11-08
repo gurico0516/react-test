@@ -1,0 +1,16 @@
+.modal {
+  background: rgba(0, 0, 0, 0.7);
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.modal_content {
+  background: #fff;
+  padding: 20px;
+  width: 70%;
+  height: auto;
+  margin: 100px auto 0;
+}
